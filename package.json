@@ -1,8 +1,8 @@
 {
-  "name": "vite-dark",
-  "displayName": "vite-dark",
+  "name": "vscode-theme-vitepress",
+  "displayName": "VitePress Theme (unofficial)",
   "description": "Theme based on the Vite documentation.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vite Theme",
+        "label": "VitePress Theme Vite Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vite-theme-dark.json"
+        "path": "./themes/vite-dark.json"
       }
     ]
   }
