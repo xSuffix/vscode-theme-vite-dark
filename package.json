@@ -3,6 +3,11 @@
   "displayName": "VitePress Theme (unofficial)",
   "description": "Theme based on the Vite documentation.",
   "version": "0.0.2",
+  "publisher": "zanfee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zanfee/vscode-theme-vitepress"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
